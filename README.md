@@ -87,13 +87,11 @@ online-teacher-trainer/
     └── admin_dashboard.php                # Platform oversight and user management
 ```
 
-<img src="P1-1.png" alt="Logo" width="800">
-
-<img src="P1-2.png" alt="Logo" width="800">
+<img src="images/Home.png" alt="Logo" width="800">
 
 ---
 
-<img src="purchase.jpg" alt="Logo" width="600">
+<img src="images/purchase.jpg" alt="Logo" width="600">
 
 ---
 
